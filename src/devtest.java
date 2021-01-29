@@ -4,4 +4,8 @@ public class devtest {
         System.out.println("hoang test");
         System.out.println("tuananh test lần 1");
     }
+
+    public static void main(String[] args) {
+        System.out.println("nghia sua lan 1");
+    }
 }
