@@ -14,5 +14,8 @@ public class devtest {
     public void nghiasualan2(int a){
         System.out.println("123");
     }
+    public void nghiasualan2(Long a){
+        System.out.println("123");
+    }
 
 }
