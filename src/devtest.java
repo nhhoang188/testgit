@@ -8,4 +8,7 @@ public class devtest {
     public static void main(String[] args) {
         System.out.println("nghia sua lan 1");
     }
+    public void nghiasualan2(){
+        System.out.println("123");
+    }
 }
