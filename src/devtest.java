@@ -10,6 +10,7 @@ public class devtest {
 
     public static void main(String[] args) {
         System.out.println("nghia sua lan 2");
+        System.out.println("nghia sua lan 3");
     }
     public void nghiasualan2(){
         System.out.println("312");
@@ -23,4 +24,6 @@ public class devtest {
     public void nghiasualan2(Long a){
         System.out.println("123");
     }
+    }
+
 }
