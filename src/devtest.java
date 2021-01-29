@@ -3,7 +3,7 @@ public class devtest {
         System.out.println("test");
         System.out.println("hoang test lan 1");
         System.out.println("tuananh test lần 1");
-        System.out.println("hoang test lan 2");
+        System.out.println("tuananh test lan 2");
         System.out.println("hoang test lan 3");
         System.out.println("hoang test lan 4");
     }
