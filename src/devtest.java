@@ -10,7 +10,7 @@ public class devtest {
 
     public static void main(String[] args) {
         System.out.println("nghia sua lan 2");
-        System.out.println("nghia sua lan 3");
+        System.out.println("nghia ngu vcl tuan anh bao the sua lan 3");
     }
     public void nghiasualan2(){
         System.out.println("312");
