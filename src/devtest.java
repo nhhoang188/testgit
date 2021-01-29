@@ -14,5 +14,7 @@ public class devtest {
     public void nghiasualan2(int a){
         System.out.println("123");
     }
-
+    public void nghiasualan2(String a){
+        System.out.println("123");
+    }
 }
